@@ -3,7 +3,7 @@ Version:	41012
 Release:	2
 Summary:	Typeset counters in a different base
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/makebase
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/makebase
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makebase.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/makebase.doc.r%{version}.tar.xz
